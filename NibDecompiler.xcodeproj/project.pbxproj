@@ -122,7 +122,6 @@
 				D899DFDF1284865D00F55CA4 /* Sources */,
 				D899DFE01284865D00F55CA4 /* Frameworks */,
 				D899DFE11284865D00F55CA4 /* Resources */,
-				D899DFE21284865D00F55CA4 /* Rez */,
 				D899DFE31284865D00F55CA4 /* ShellScript */,
 			);
 			buildRules = (
@@ -173,16 +172,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
-
-/* Begin PBXRezBuildPhase section */
-		D899DFE21284865D00F55CA4 /* Rez */ = {
-			isa = PBXRezBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXRezBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
 		D899DFE31284865D00F55CA4 /* ShellScript */ = {
