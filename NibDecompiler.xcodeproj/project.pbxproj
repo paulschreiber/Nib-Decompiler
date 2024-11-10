@@ -143,12 +143,13 @@
 			};
 			buildConfigurationList = D899DFD81284865D00F55CA4 /* Build configuration list for PBXProject "NibDecompiler" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				"ru-RU",
 				ru,
+				Base,
 			);
 			mainGroup = D899DFD31284865D00F55CA4;
 			productRefGroup = D899DFE61284865D00F55CA4 /* Products */;
