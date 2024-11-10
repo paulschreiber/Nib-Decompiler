@@ -224,7 +224,7 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				MACOSX_DEPLOYMENT_TARGET = 11.5;
 				ONLY_ACTIVE_ARCH = YES;
 				PREBINDING = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yukka-s.NibDecompiler";
@@ -241,8 +241,8 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				PREBINDING = NO;
+				MACOSX_DEPLOYMENT_TARGET = 11.5;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yukka-s.NibDecompiler";
 				SDKROOT = macosx;
 			};
@@ -261,6 +261,7 @@
 				GCC_PREFIX_HEADER = NibDecompiler_Prefix.pch;
 				INFOPLIST_FILE = "NibDecompiler-Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Automator";
+				MACOSX_DEPLOYMENT_TARGET = 11.5;
 				OTHER_OSAFLAGS = "-x -t 0 -c 0";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yukka-s.NibDecompiler";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -281,6 +282,7 @@
 				GCC_PREFIX_HEADER = NibDecompiler_Prefix.pch;
 				INFOPLIST_FILE = "NibDecompiler-Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Automator";
+				MACOSX_DEPLOYMENT_TARGET = 11.5;
 				OTHER_OSAFLAGS = "-x -t 0 -c 0";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yukka-s.NibDecompiler";
 				PRODUCT_NAME = "$(TARGET_NAME)";
