@@ -238,6 +238,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				ONLY_ACTIVE_ARCH = YES;
 				PREBINDING = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yukka-s.NibDecompiler";
 				SDKROOT = macosx;
 			};
 			name = Debug;
@@ -253,6 +254,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				PREBINDING = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yukka-s.NibDecompiler";
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -271,6 +273,7 @@
 				INFOPLIST_FILE = "NibDecompiler-Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Automator";
 				OTHER_OSAFLAGS = "-x -t 0 -c 0";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yukka-s.NibDecompiler";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = action;
 			};
@@ -290,6 +293,7 @@
 				INFOPLIST_FILE = "NibDecompiler-Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Automator";
 				OTHER_OSAFLAGS = "-x -t 0 -c 0";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yukka-s.NibDecompiler";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = action;
 			};
