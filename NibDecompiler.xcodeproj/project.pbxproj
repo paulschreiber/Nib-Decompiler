@@ -196,7 +196,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "/usr/bin/amlint \"${BUILT_PRODUCTS_DIR}/${FULL_PRODUCT_NAME}\"";
+			shellScript = "/Applications/Xcode.app/Contents/Developer/usr/bin/amlint  \"${BUILT_PRODUCTS_DIR}/${FULL_PRODUCT_NAME}\"\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 
